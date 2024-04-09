@@ -8,7 +8,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "https://niamorweb-store.vercel.app/",
+        hostname: "niamorweb-store.vercel.app",
       },
     ],
   },
