@@ -10,6 +10,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "niamorweb-store.vercel.app",
       },
+      {
+        protocol: "https",
+        hostname: "niamorweb-store.onrender.com",
+      },
     ],
   },
 };
